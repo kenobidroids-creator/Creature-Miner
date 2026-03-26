@@ -1349,7 +1349,7 @@ export default function App() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              className="absolute inset-0 flex items-center justify-center bg-black/80 backdrop-blur-md z-[100] p-4"
+              className="absolute inset-0 flex items-center justify-center bg-black/80 backdrop-blur-md z-[250] p-4"
             >
               <div className="w-full max-w-lg bg-stone-900 border border-white/10 rounded-sm flex flex-col max-h-[80vh]">
                 <div className="p-4 border-b border-white/10 flex justify-between items-center">
