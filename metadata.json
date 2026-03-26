@@ -1,0 +1,5 @@
+{
+  "name": "Creature Miner",
+  "description": "An isometric pixel-art inspired incremental game where you mine mystical creatures for essence.",
+  "requestFramePermissions": []
+}
